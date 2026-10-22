@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02012F,60:1B1464,100:FA1991&height=210&section=header&text=Saif%20Ahmed&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Education%20Apps%20%E2%80%A2%20App%20Store%20%26%20Google%20Play%20Publishing&descSize=17&descColor=E8E8FF&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="assets/header.png" width="100%" alt="Saif Ahmed — Flutter Developer"/>
 
 <a href="https://nexwavetec.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=FA1991&center=true&vCenter=true&width=640&height=60&lines=I+build+branded+apps+for+tutors+and+schools;28+apps+live+on+Google+Play;300%2C000%2B+students+installed+my+apps;Protected+video+%E2%80%A2+Exams+%E2%80%A2+Attendance+%E2%80%A2+Payments" alt="Typing intro"/>
@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://www.upwork.com/freelancers/~01005df5bc7a256142"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-<a href="https://mostaql.com/u/saif606012"><img src="https://img.shields.io/badge/%D9%85%D8%B3%D8%AA%D9%82%D9%84-Mostaql-2386C8?style=for-the-badge"/></a>
+<a href="https://mostaql.com/u/saif606012"><img src="https://img.shields.io/badge/Hire%20me%20on-Mostaql-2386C8?style=for-the-badge"/></a>
 <a href="https://www.freelancer.com/u/saifahmed606012"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/></a>
 <a href="https://nexwavetec.com"><img src="https://img.shields.io/badge/Website-nexwavetec.com-FA1991?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
@@ -127,9 +127,9 @@ Most of my code is private client work, so the best way to see it is in the apps
 <div align="center">
 
 <a href="https://www.upwork.com/freelancers/~01005df5bc7a256142"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-<a href="https://mostaql.com/u/saif606012"><img src="https://img.shields.io/badge/%D9%85%D8%B3%D8%AA%D9%82%D9%84-Mostaql-2386C8?style=for-the-badge"/></a>
+<a href="https://mostaql.com/u/saif606012"><img src="https://img.shields.io/badge/Hire%20me%20on-Mostaql-2386C8?style=for-the-badge"/></a>
 <a href="https://www.freelancer.com/u/saifahmed606012"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA1991,40:1B1464,100:02012F&height=110&section=footer" width="100%"/>
+<br/><img src="assets/footer.png" width="100%" height="8"/>
 
 </div>
