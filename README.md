@@ -11,6 +11,8 @@
 <a href="https://www.upwork.com/freelancers/~01005df5bc7a256142"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 <a href="https://mostaql.com/u/saif606012"><img src="https://img.shields.io/badge/Hire%20me%20on-Mostaql-2386C8?style=for-the-badge"/></a>
 <a href="https://www.freelancer.com/u/saifahmed606012"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/></a>
+<a href="https://www.behance.net/saifahmednadr"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/saif-ahmed-382117196/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://nexwavetec.com"><img src="https://img.shields.io/badge/Website-nexwavetec.com-FA1991?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
