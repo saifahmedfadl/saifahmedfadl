@@ -53,12 +53,14 @@ Firebase (Auth, Firestore, Cloud Functions, push notifications) and Node.js serv
 <td width="50%" align="center">
 <a href="https://loqelo-fawn.vercel.app"><img src="assets/loqelo.jpg" width="100%"/></a><br/>
 <b>Loqelo</b>: pre-launch website with waitlist, 6 languages and an admin dashboard<br/>
+<sub>Built for a Freelancer.com contest</sub><br/>
 <a href="https://loqelo-fawn.vercel.app"><img src="https://img.shields.io/badge/Live%20site-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
 <a href="https://www.behance.net/gallery/257844969/Loqelo-Pre-launch-website-with-waitlist-and-dashboard"><img src="https://img.shields.io/badge/Case%20study-1769FF?style=flat-square&logo=behance&logoColor=white"/></a>
 </td>
 <td width="50%" align="center">
 <a href="https://www.behance.net/gallery/257844901/Mutua-Neighbour-sharing-app-for-iPhone-and-Android"><img src="assets/mutua.jpg" width="100%"/></a><br/>
 <b>Mutua</b>: neighbour sharing app for iPhone and Android, with chat, push and a moderation dashboard<br/>
+<sub>Built for a Freelancer.com contest</sub><br/>
 <a href="https://testflight.apple.com/join/FUHkscs4"><img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white"/></a>
 <a href="https://mutua-admin.web.app"><img src="https://img.shields.io/badge/Dashboard-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
 <a href="https://www.behance.net/gallery/257844901/Mutua-Neighbour-sharing-app-for-iPhone-and-Android"><img src="https://img.shields.io/badge/Case%20study-1769FF?style=flat-square&logo=behance&logoColor=white"/></a>
